@@ -43,11 +43,13 @@ I'm starting to use GitHub again to post my studies and side projects.
 
 * Technology and software
 * Science 
-* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
-* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
-* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
+* Books 
 * Nutrition
 * Nature
+* Gym
+* Cryptocurrencies
+* Geopolitics
+* Financial market
 
 <br />
 <a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
