@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://aralroca.com">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+    <img width="100" src="https://github.com/pedrocferreira/pedrocferreira/blob/main/DALL%C2%B7E%202023-10-16%2014.10.15%20-%20Vector%20logo%20design%20where%20the%20letter%20'P_'%20is%20in%20bold%20black%2C%20followed%20by%20a%20thin%20horizontal%20line%20on%20its%20right.%20The%20design%20is%20set%20against%20a%20stark%20white%20ba.png" alt="logo" />
   </a>
 </p>
 
@@ -26,12 +26,12 @@
   </a>
 </p>
 
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
+I'm a Full-Stack developer who enjoys working with PHP (Laravel, Codeigniter), JavaScript/TypeScript, Python, and more. 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocferreira&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <small>language used in my repositories is JavaScript, even though I don't have professional experience with it.🤣</small>
   <br />
   <br />
 </div>
